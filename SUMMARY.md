@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-* [👑 The Platform](README.md)
+* [👑 Escorium](README.md)
 
 ## ADVANCED INTRODUCTION
 
